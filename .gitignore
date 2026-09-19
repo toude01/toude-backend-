@@ -3,3 +3,4 @@ node_modules/
 ca.pem
 *.log
 .DS_Store
+.vs/
